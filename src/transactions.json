@@ -1,0 +1,20 @@
+[
+ {"day":1,"description":"Monthly salary · Acme Studio","amount":3250},
+ {"day":2,"description":"Whole Foods Market","amount":-64.85},
+ {"day":3,"description":"City Transport","amount":-12.4},
+ {"day":4,"description":"Blue Bottle Coffee","amount":-5.5},
+ {"day":5,"description":"Rent · Apartment","amount":-1100},
+ {"day":7,"description":"Spotify Premium","amount":-10.99},
+ {"day":8,"description":"Transfer from Alex Morgan","amount":85},
+ {"day":10,"description":"Sainsbury’s Local","amount":-42.6},
+ {"day":12,"description":"Netflix subscription","amount":-15.99},
+ {"day":14,"description":"Freelance · Design project","amount":480},
+ {"day":16,"description":"The Good Kitchen","amount":-38.5},
+ {"day":18,"description":"Amazon Marketplace","amount":-29.95},
+ {"day":20,"description":"City Transport","amount":-18.2},
+ {"day":22,"description":"Waterstones","amount":-24.99},
+ {"day":24,"description":"Transfer to savings","amount":-300},
+ {"day":26,"description":"Tesco Express","amount":-56.32},
+ {"day":28,"description":"Refund · Online purchase","amount":29.95},
+ {"day":30,"description":"Sunday Coffee House","amount":-8.8}
+]
